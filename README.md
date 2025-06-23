@@ -1,3 +1,4 @@
 # presentation-html-css
-This is my my Git  Repositry.
+This is my my Git  Repository.
+<br>
 Author- Khadija Ali
